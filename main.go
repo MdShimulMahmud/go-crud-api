@@ -16,6 +16,8 @@ func main() {
 
 	routes.UsersRoutes(router)
 	routes.BookRoutes(router)
+
+	routes.BorrowRoutes(router)
 	router.Use(middleware.Logger)
 	// Start server on port 8000
 	log.Fatal(http.ListenAndServe(":8000", router))

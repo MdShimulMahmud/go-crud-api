@@ -51,3 +51,8 @@
 2024/12/05 15:14:07 Received request: GET /books/
 2024/12/05 15:17:09 Received request: GET /books/
 2024/12/05 15:27:15 Received request: GET /books/
+2024/12/05 17:07:27 Received request: POST /books/810b2067-71a6-473b-8388-41269882c627/borrows
+2024/12/05 17:07:39 Received request: POST /books/810b2067-71a6-473b-8388-41269882c627/borrows
+2024/12/05 17:08:12 Received request: POST /books/810b2067-71a6-473b-8388-41269882c627/borrows
+2024/12/05 17:09:40 Received request: POST /books/810b2067-71a6-473b-8388-41269882c627/borrows
+2024/12/05 17:10:30 Received request: POST /books/810b2067-71a6-473b-8388-41269882c627/borrows
